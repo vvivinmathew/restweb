@@ -638,7 +638,8 @@ contact.html
 ## OUTPUT:
 ![alt text](<vivin/restapp/static/Screenshot 2024-12-17 160755.png>)
 ![alt text](<vivin/restapp/static/Screenshot 2024-12-17 160937.png>)
-![alt text](<vivin/restapp/static/Screenshot 2024-12-17 160951.png>)
+![alt text](<vivin/restapp/static/Screenshot 2024-12-17 171345.png>)
+![alt text](<vivin/restapp/static/Screenshot 2024-12-17 171401.png>)
 ![alt text](<vivin/restapp/static/Screenshot 2024-12-17 161027.png>)
 ![alt text](<vivin/restapp/static/Screenshot 2024-12-17 161109.png>)
 ## RESULT:
