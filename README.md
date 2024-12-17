@@ -339,7 +339,68 @@ menu.html
             </div>
         </div>
 
+        <div class="menu-item">
+            <img src="kothu.jpg" alt="KOTHU PAROTTA">
+            <div>
+                <h3>KOTHU PAROTTA </h3>
+                <p>CHOPPED AND BEATEN WELL</p>
+                <span class="price">Rs.200</span>
+            </div>
+        </div>
         
+        <div class="menu-item">
+            <img src="sandwich.jpg" alt="SANDWICH">
+            <div>
+                <h3>SANDWICH </h3>
+                <p>SOFT AT EVERY BITE</p>
+                <span class="price">Rs.90</span>
+            </div>
+        </div>
+
+        <div class="menu-item">
+            <img src="grill.jpg" alt="GRILL(FULL)">
+            <div>
+                <h3>GRILL(FULL)</h3>
+                <p>JUICY SOFT</p>
+                <span class="price">Rs.500</span>
+            </div>
+        </div>
+
+        <div class="menu-item">
+            <img src="pizza.jpg" alt="PIZZA">
+            <div>
+                <h3>PIZZA </h3>
+                <p></p>
+                <span class="price">Rs.200</span>
+            </div>
+        </div>
+
+        <div class="menu-item">
+            <img src="dosa.jpg" alt="DOSA">
+            <div>
+                <h3>DOSA</h3>
+                <p>SOFT AND THIN</p>
+                <span class="price">Rs.20</span>
+            </div>
+        </div>
+
+        <div class="menu-item">
+            <img src="burger.jpg" alt="BURGER">
+            <div>
+                <h3>BURGER </h3>
+                <p>STUFFED WITH CHEESE AND CHICKEN</p>
+                <span class="price">Rs.150</span>
+            </div>
+        </div>I
+
+        <div class="menu-item">
+            <img src="tea.jpg" alt="TEA">
+            <div>
+                <h3>TEA </h3>
+                <p>HOT AND SWEET</p>
+                <span class="price">Rs.20</span>
+            </div>
+        </div>
     </section>
 
    
